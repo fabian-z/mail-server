@@ -2774,7 +2774,7 @@ dependencies = [
 [[package]]
 name = "mail-auth"
 version = "0.3.6"
-source = "git+https://github.com/stalwartlabs/mail-auth#8a1b216adc60b95192645033aed6d20fa89821cd"
+source = "git+https://github.com/fabian-z/mail-auth?branch=fix-dns#084413d24bec6f9e30c9056cd632beb6e253fbac"
 dependencies = [
  "ahash 0.8.3",
  "flate2",
